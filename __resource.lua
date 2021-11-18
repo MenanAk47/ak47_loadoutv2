@@ -1,6 +1,8 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
-
-description 'Ak47 Weapon Accessories V2'
+name "ak47_loadoutv2"
+author "MenanAk47 (MenanAk47#3129)"
+description "MenanAk47 - Optimized Weapon Attachment"
+version "2.0"
 
 ui_page 'html/form.html'
 
